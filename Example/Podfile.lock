@@ -1,0 +1,16 @@
+PODS:
+  - XMGDownLoad (0.1.0)
+
+DEPENDENCIES:
+  - XMGDownLoad (from `../`)
+
+EXTERNAL SOURCES:
+  XMGDownLoad:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XMGDownLoad: 33dca4580f6a7c0364111b12367b33f749e0917c
+
+PODFILE CHECKSUM: 6c65f7c1b4f9e28074aa263ed0d0cbe6c4a2a6fd
+
+COCOAPODS: 1.2.0.beta.1
