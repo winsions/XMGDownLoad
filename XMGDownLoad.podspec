@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-"下载器, 好牛逼好牛哈哈哈哈"
+"XMGDownLoad.下载器, "
                        DESC
 
-  s.homepage         = 'https://coding.net/u/seemygo_wangshunzi/p/XMGDownLoad'
+  s.homepage         = 'https://github.com/winsions/XMGDownLoad'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'wangshunzi' => '123@qq.com' }
-  s.source           = { :git => 'https://git.coding.net/seemygo_wangshunzi/XMGDownLoad.git', :tag => s.version.to_s }
+  s.author           = { 'Wangzicheng' => '327574878@qq.com' }
+  s.source           = { :git => 'https://github.com/winsions/XMGDownLoad.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
