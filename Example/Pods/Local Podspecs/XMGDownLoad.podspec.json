@@ -1,9 +1,9 @@
 {
   "name": "XMGDownLoad",
   "version": "0.1.0",
-  "summary": "A short description of XMGDownLoad.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/wangshunzi/XMGDownLoad",
+  "summary": "XMGDownLoad.",
+  "description": "\"下载器, 好牛逼好牛哈哈哈哈\"",
+  "homepage": "https://coding.net/u/seemygo_wangshunzi/p/XMGDownLoad",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "wangshunzi": "123@qq.com"
   },
   "source": {
-    "git": "https://github.com/wangshunzi/XMGDownLoad.git",
+    "git": "https://git.coding.net/seemygo_wangshunzi/XMGDownLoad.git",
     "tag": "0.1.0"
   },
   "platforms": {
